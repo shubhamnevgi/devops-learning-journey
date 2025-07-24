@@ -80,7 +80,7 @@ The 'Defining' stage involves creating a **Software Requirement Specification (S
 
 ---
 
-### ❓ Q10:SDLC models, and which is widely adopted in modern software delivery?
+### ❓ Q10: SDLC models, and which is widely adopted in modern software delivery?
 **Answer:**  
 
 - **Waterfall Model**
