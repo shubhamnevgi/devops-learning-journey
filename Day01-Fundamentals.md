@@ -1,5 +1,5 @@
 # 📘 DevOps Interview Notes (Day 1: Fundamentals)
----
+
 
 ### ❓ Q1: What is DevOps?
 **Answer:**  
