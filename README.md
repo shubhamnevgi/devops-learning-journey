@@ -10,12 +10,6 @@ I'm a fresher passionate about DevOps, Cloud, and automation, sharing my journey
 
 ---
 
-## 📚 References
-
-This repository is inspired by and references content from the [DevOps Zero to Hero](https://www.youtube.com/playlist?list=PLn2GH4dN5i2C3l1jGToKzK2WQ5Z2gzfjW) playlist by **Abhishek Veeramalla** on YouTube. Huge thanks to him for making DevOps accessible to beginners!
-
----
-
 ## 🤝 Contributions Welcome!
 
 I welcome contributions to improve and expand this repository.
@@ -28,3 +22,10 @@ I welcome contributions to improve and expand this repository.
 5. **Open a Pull Request**.
 
 Whether it's fixing a typo, adding examples, or writing new notes — every bit helps!
+
+---
+
+## 📚 References
+
+This repository is inspired by and references content from the [DevOps Zero to Hero](https://youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&si=tFhRcYFemULCBtuy) playlist by **Abhishek Veeramalla** on YouTube. Huge thanks to him for making DevOps accessible to beginners!
+
