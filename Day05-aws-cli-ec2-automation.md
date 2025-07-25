@@ -185,3 +185,9 @@
 
 **A:**
 "Because **DevOps is centered on automating deployment, scaling, and management processes**, proficiency with tools like **AWS CLI**, scripting, and **IaC frameworks** is key to delivering efficient, reliable solutions." 💯
+
+---
+
+
+**Here is Official [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/)**
+
