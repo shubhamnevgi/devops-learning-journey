@@ -10,7 +10,7 @@ I'm a fresher passionate about DevOps, Cloud, and automation, sharing my journey
 > 🌟 If you find these notes useful, give the repo a ⭐ and share it!
 
 
----
+
 
 
 ## 🤝 Contributions Welcome!
@@ -27,7 +27,7 @@ I welcome contributions to improve and expand this repository.
 Whether it's fixing a typo, adding examples, or writing new notes — every bit helps!
 
 
----
+
 
 
 ## 📚 References
