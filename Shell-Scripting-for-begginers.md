@@ -218,5 +218,3 @@ Output: `Hello, DevOps World!` 👋
 
 **A:** It gives full permissions to everyone, which is a **security risk**. Grant the least privileges needed for the script to run. 🚨🔒
 
-```
-```
