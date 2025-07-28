@@ -219,4 +219,3 @@ ps -ef | grep tomcat | awk '{print $2}' | xargs kill -9
 This efficiently gets all Tomcat PIDs and forcefully terminates them. 💥
 
 ```
-```
