@@ -120,5 +120,3 @@ aws iam list-users --query 'Users[*].UserName' --output text
   * Understand scheduling (`cron`), parsing JSON output (`jq`), checking CLI configuration, permissions, and error handling as critical skills. 🧠
 
 <!-- end list -->
-
-```
