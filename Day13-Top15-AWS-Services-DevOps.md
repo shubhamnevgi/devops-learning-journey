@@ -67,7 +67,7 @@ CloudWatch can trigger Lambda functions based on events or thresholds (e.g., une
 
 ### Q7: How can a fresher prioritize learning these services? 🎓
 
-1.  Start with **EC2, S3, IAM, VPC, and EBS** for foundational knowledge.  фундамент
+1.  Start with **EC2, S3, IAM, VPC, and EBS** for foundational knowledge.
 2.  Move to **CodePipeline/CodeBuild/CodeDeploy** for CI/CD pipelines. 🚀
 3.  Add **CloudWatch, Lambda, and Config** for automation, monitoring, and compliance. 🤖
 4.  Gradually learn **Kubernetes/EKS** and container orchestration as you advance. ☸️
