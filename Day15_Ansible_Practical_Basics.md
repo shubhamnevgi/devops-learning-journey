@@ -173,6 +173,3 @@ kubernetes/
   * Use **roles** for deploying entire application stacks, complex clusters, or to comply with DRY (Don’t Repeat Yourself) best practices. 🏗️
 
 <!-- end list -->
-
-```
-```
